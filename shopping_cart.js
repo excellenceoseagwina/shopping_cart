@@ -173,7 +173,7 @@ else if (age <= ageofBuyer)
 }
 }
 else if (review !== Arrayofgoods[0].good_1 || review === Arrayofgoods[0].good_2 || review === Arrayofgoods[0].good_3 || review === Arrayofgoods[0].good_4 || review === Arrayofgoods[0].good_5 || review === Arrayofgoods[0].good_6) {
-     alert("No Found")
+     alert("We don't have such item")
 }
 
 
